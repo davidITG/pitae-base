@@ -9,8 +9,8 @@
 * Förbättrade matriser
 * uppgift/bedömning/uppgift<=>matris koppling-tabeller
 * Gränssnitt
-.* Lärare
-..* Matriser Skapa/Redigera/Ta bort
-.* Elev
-..* Matriser Visa
+  * Lärare
+    * Matriser Skapa/Redigera/Ta bort
+  * Elev
+    * Matriser Visa
 
