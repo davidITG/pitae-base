@@ -6,11 +6,11 @@
 *Servlet för att ändra data
 
 ###Planerade funktioner
-*Förbättrade matriser
-*uppgift/bedömning/uppgift<=>matris koppling-tabeller
-*Gränssnitt
-.*Lärare
-..*Matriser Skapa/Redigera/Ta bort
-.*Elev
-..*Matriser Visa
+* Förbättrade matriser
+* uppgift/bedömning/uppgift<=>matris koppling-tabeller
+* Gränssnitt
+.* Lärare
+..* Matriser Skapa/Redigera/Ta bort
+.* Elev
+..* Matriser Visa
 
